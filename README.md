@@ -1,13 +1,13 @@
 # Blum - Auto Claim Bot
 
-🔗 **Referral Link**: [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_4WwBGtCuHW)
+🔗 **Referral Link**: [Blum](https://t.me/blum/app?startapp=ref_F5Mw2IbzBt)
 
-## 📢 Telegram Group
+
+## 📢 Whatsapp Group
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+- [Legit Crypto Airdrop](https://chat.whatsapp.com/I510IxGK3dYFOOJGVtkdsT)
 
 ## 🌟 Features
 
@@ -30,3 +30,6 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 - Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
 - Auto features: Change `false` to `true` in the `config.json` file.
 - Supported commands: `/run_bot` `/query_id` `/proxy` `/proxy_web` (Join group to use these commands).
+
+
+All Credit Goes To Smart Airdrops 
